@@ -14,4 +14,4 @@
 🛠️ **Skills**  
 - **Languages**: Python, SQL, Java  
 - **Tools**: SSMS, Maple, Mathcad  
-- **Certifications**: Coursera, SQL Academy, and more  
+- **Certifications**: Coursera, SQL Academy and more  
