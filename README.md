@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @sabohat-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Sabohat Hamroqulova! 👋
 
-<!---
-sabohat-dev/sabohat-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Engineer | Mentor | Problem Solver**
+
+🔹 Currently at **INFOTECH IT SERVICE**, mentoring over 300 students and optimizing SQL queries for improved performance.
+
+🎓 **Education**: B.Sc. in Applied Mathematics (Bukhara State University)
+
+🌐 **Connect with Me**  
+- [LinkedIn](https://linkedin.com/in/sabohat-dev)  
+- [Telegram @famdev](https://t.me/famdev)  
+- **Email**: sabohat.dev@gmail.com  
+
+🛠️ **Skills**  
+- **Languages**: Python, SQL, Java  
+- **Tools**: SSMS, Maple, Mathcad  
+- **Certifications**: Coursera, SQL Academy, and more  
