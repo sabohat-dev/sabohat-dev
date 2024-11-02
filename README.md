@@ -2,7 +2,7 @@
 
 **Data Engineer | Mentor | Problem Solver**
 
-🔹 Currently at **INFOTECH IT SERVICE**, mentoring over 300 students and optimizing SQL queries for improved performance.
+🔹 Currently at **INFOTEEK IT SERVICE**, mentoring over 300 students and optimizing SQL queries for improved performance.
 
 🎓 **Education**: B.Sc. in Applied Mathematics (Bukhara State University)
 
