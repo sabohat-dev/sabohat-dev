@@ -4,7 +4,7 @@
 
 🔹 Currently at **INFOTEEK IT SERVICE**, mentoring over 300 students and optimizing SQL queries for improved performance.
 
-🎓 **Education**: B.Sc. in Applied Mathematics (Bukhara State University)
+🎓 **Education**: Bachelor's Degree in Applied Mathematics, Bukhara State University
 
 🌐 **Connect with Me**  
 - [LinkedIn](https://linkedin.com/in/sabohat-dev)  
